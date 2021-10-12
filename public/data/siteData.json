@@ -1,0 +1,21 @@
+[
+  {"name": "百度", "ico": "https://www.baidu.com/favicon.ico", "url": "https://www.baidu.com/", "type": 1,"sortId":1,"content": "百度一下，你就知道"},
+  {"name": "谷歌", "ico": "https://www.google.com/favicon.ico", "url": "https://www.google.com/", "type": 1,"sortId":2,"content": "谷歌搜索引擎"},
+  {"name": "必应", "ico": "https://www.bing.com/favicon.ico", "url": "https://www.bing.com/", "type": 1,"sortId":3,"content": "微软必应搜索引擎"},
+  {"name": "知乎", "ico": "https://www.zhihu.com/favicon.ico", "url": "https://www.zhihu.com/", "type": 1,"sortId":4,"content": "有问题，就会有答案"},
+  {"name": "GitHub", "ico": "https://www.github.com/favicon.ico", "url": "https://www.github.com/", "type": 1,"sortId":5,"content": "世界上最大的代码托管平台"},
+  {"name": "Gmail", "ico": "https://mail.google.com/favicon.ico", "url": "https://mail.google.com/", "type": 1,"sortId":6,"content": "谷歌邮箱"},
+
+  {"name": "CSDN", "ico": "https://g.csdnimg.cn/static/logo/favicon32.ico", "url": "https://www.csdn.net/", "type": 2,"sortId":1,"content": "全球知名中文IT技术交流平台"},
+
+  {"name": "Smallpdf", "ico": "https://www.smallpdf.com/favicon.ico", "url": "https://smallpdf.com/cn", "type": 3,"sortId":1,"content": "在线转换PDF"},
+
+  {"name": "Vue.js", "ico": "https://cn.vuejs.org/images/icons/ms-icon-144x144.png", "url": "https://cn.vuejs.org/", "type": 4,"sortId":1,"content": "渐进式JavaScript框架"},
+
+  {"name": "66影视网", "ico": "http://www.66ys.co/favicon.ico", "url": "http://www.66ys.co/", "type": 5,"sortId":1,"content": "最新电影,最新电视剧,迅雷电影下载"},
+
+
+  {"name": "Wangcx's NoteBook", "ico": "https://wangcx.me/favicon.ico", "url": "https://wangcx.me/", "type": 6,"sortId":1,"content": "Wangcx的博客"},
+  {"name": "76CODE", "ico": "http://76code.com:7070//favicon.ico", "url": "http://76code.com:7070/", "type": 6,"sortId":2,"content": "Wangcx的NAS导航页"}
+
+]

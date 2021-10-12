@@ -1,28 +1,37 @@
 <template>
-  <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div id="app" >
+<!--    <h2>我是APP组件</h2>-->
+<!--    &lt;!&ndash; 直接使用   &ndash;&gt;-->
+<!--    <router-link to="/home">首页</router-link>-->
+<!--    <router-link to="/about">关于</router-link>-->
+<!--    &lt;!&ndash;通过函数跳转&ndash;&gt;-->
+<!--    <button @click="homeClick">首页</button>-->
+<!--    <button @click="aboutClick">关于</button>-->
+<!--    <router-view></router-view>-->
+    <my-nav/>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import MyNav from './views/MyNav.vue'
+
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    MyNav
   }
 }
 </script>
 
 <style>
+
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue",Helvetica,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","微软雅黑",Arial,sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+  /*color: #2c3e50;*/
 }
+
+
 </style>
